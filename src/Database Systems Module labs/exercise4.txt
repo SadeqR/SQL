@@ -1,0 +1,20 @@
+
+Exercise 1: joines
+ 
+1) Find the name and salary of employees in dallas
+ 
+2) Join the dept table to the emp table and show in department 
+number order
+ 
+3) List all departments that have employees plus those 
+departments that do not have employees
+ 
+4) List all departments that do not have any employees
+ 
+5) Find all the employees that earn more than jones 
+usingtemporary labels to abreviate table names
+ 
+6) For each employee whose salary exceeds his manager's salary 
+list the employee's name and a salary and the manager's name and 
+salary
+ 
